@@ -1,4 +1,5 @@
 cosign.key
+cosign.private
 _build_*
 output
 _build-*/**
